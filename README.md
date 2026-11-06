@@ -1,5 +1,5 @@
 # Oil-Palm-Productivity-Report
-This is my dummy project use Google Sheet to analyze palms productivity based on total productive palms and  the wide of area. Further analysis, such as seed type and plant age, will be analysed in the future.
+This is my dummy project using Google Sheets to analyse palm productivity based on total productive palms and  the width of the area. Further analyses, such as seed type and plant age, will be analysed in the future.
 
 Dataset source: [Long-Term Block-Level Oil Palm Productivity Dataset with Leaf Nutrient and Soil Fertility Measurements from an Indonesian Plantation](https://data.mendeley.com/datasets/93k3733p6x/2?utm_source=chatgpt.com)
 
