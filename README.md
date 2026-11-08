@@ -3,6 +3,11 @@ This is my dummy project using Google Sheets to analyse palm productivity based 
 
 Dataset source: [Long-Term Block-Level Oil Palm Productivity Dataset with Leaf Nutrient and Soil Fertility Measurements from an Indonesian Plantation](https://data.mendeley.com/datasets/93k3733p6x/2?utm_source=chatgpt.com)
 
+## Analysis
+### 1. Data Quality
+### 2. Productivity Analysis
+### 3. Correlation Analysis
+
 ## Insight
 ### 1. Data Quality Assessment
 
